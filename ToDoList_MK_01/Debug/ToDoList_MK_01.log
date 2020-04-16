@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\Spark\source\repos\ToDoList_MK_01\ToDoList_MK_01\Source.cpp(59,60): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Spark\source\repos\ToDoList_MK_01\ToDoList_MK_01\Source.cpp(75,60): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Spark\source\repos\ToDoList_MK_01\ToDoList_MK_01\Source.cpp(89,60): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Spark\source\repos\ToDoList_MK_01\ToDoList_MK_01\Source.cpp(240,50): warning C4244: =: преобразование "wchar_t" в "char", возможна потеря данных
+  ToDoList_MK_01.vcxproj -> C:\Users\Spark\source\repos\ToDoList_MK_01\Debug\ToDoList_MK_01.exe
