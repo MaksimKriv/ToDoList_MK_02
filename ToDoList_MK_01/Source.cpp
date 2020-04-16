@@ -228,7 +228,7 @@ int main()
         cout << "Process PID: " << pidId << endl;
         cout << "Current count: " << countCicles++ << endl;
 
-        cout << "\nCurrent task (Number task, R-run (S-stop), data (yyyyMMddHHmm)) : " << endl;
+        cout << "\nCurrent task (Number task, R-run (S-stop), data (yyyyMMddHHmm)): " << endl;
         PrintTask(stroki);
 
 
